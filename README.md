@@ -10,7 +10,7 @@ SKN15-1st-2Team : 🌟 2프로가 부족해 🌟
 | 최민석 | 김주형 | 권혜성 | 임가은 | 오원장 
 |--|--|--|--|--|
 | @Minseok1014 | @wngud09 | @kwonpatrickstar | @mars7421 | @AQUAQUA5 |
-| ![image](https://github.com/user-attachments/assets/a8da1221-f0d8-4aeb-9d28-bddd828a7029) | ![image](https://github.com/user-attachments/assets/c582e79c-946a-4a72-b852-34c66f9b10c4) | ![image](https://github.com/user-attachments/assets/c582e79c-946a-4a72-b852-34c66f9b10c4) | ![image](https://github.com/user-attachments/assets/2ea2d09a-1061-4f40-a47c-fa99bacf7b87) | ![image](https://github.com/user-attachments/assets/ca5cfc78-7aa7-427e-8114-3b4795f00441) |
+| ![image](https://github.com/user-attachments/assets/a8da1221-f0d8-4aeb-9d28-bddd828a7029) | ![image](https://github.com/user-attachments/assets/c582e79c-946a-4a72-b852-34c66f9b10c4) | ![image](https://github.com/user-attachments/assets/11852ead-c96d-4ec0-9eed-6eb67d4e8681) | ![image](https://github.com/user-attachments/assets/2ea2d09a-1061-4f40-a47c-fa99bacf7b87) | ![image](https://github.com/user-attachments/assets/ca5cfc78-7aa7-427e-8114-3b4795f00441) |
 | Project Leader     | Crawling | DB design         | Crawling | Crawling, Streamlit |
 | Crawling, Streamlit|          | Data preprocessing|          |                     | 
 
