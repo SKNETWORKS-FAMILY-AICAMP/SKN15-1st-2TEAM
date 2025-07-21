@@ -1,5 +1,3 @@
-<img width="1595" height="784" alt="스크린샷 2025-07-21 135858" src="https://github.com/user-attachments/assets/52e5e393-31a9-4171-8e9b-818887e0a8b6" /># SKN15-1st-2TEAM
-
 # 👋🏻 팀 소개 👋🏻
 ### 📌 팀 명
 SKN15-1st-2Team : 🌟 2프로가 부족해 🌟
