@@ -1,4 +1,4 @@
-# SKN15-1st-2TEAM
+<img width="1595" height="784" alt="스크린샷 2025-07-21 135858" src="https://github.com/user-attachments/assets/52e5e393-31a9-4171-8e9b-818887e0a8b6" /># SKN15-1st-2TEAM
 
 # 👋🏻 팀 소개 👋🏻
 ### 📌 팀 명
@@ -74,8 +74,21 @@ SKN15-1st-2Team : 🌟 2프로가 부족해 🌟
 
  
 # 6. 수행결과(테스트/시연 페이지)
+<img width="1906" height="824" alt="스크린샷 2025-07-21 140005" src="https://github.com/user-attachments/assets/82eccae0-c4a9-4e6b-a48d-86077baf48ba" />
 
- 
+<img width="1905" height="808" alt="스크린샷 2025-07-21 140020" src="https://github.com/user-attachments/assets/8f8b7b8d-627a-41a3-bf7a-4a2b10bd7b67" />
+
+<img width="1915" height="856" alt="스크린샷 2025-07-21 135956" src="https://github.com/user-attachments/assets/4309b78c-2e58-4ad1-84c9-ecd25a5b4ce8" />
+
+<img width="1595" height="784" alt="스크린샷 2025-07-21 135858" src="https://github.com/user-attachments/assets/917aec3f-68d0-4bd1-89d1-0a6dfaac4d08" />
+
+<img width="1900" height="853" alt="스크린샷 2025-07-21 140302" src="https://github.com/user-attachments/assets/e496ca61-a7d8-421b-96b5-6c409dfb6e83" />
+
+<img width="1884" height="824" alt="스크린샷 2025-07-21 140256" src="https://github.com/user-attachments/assets/00751764-d8f0-48d6-b303-4c5f6ed675db" />
+
+<img width="1900" height="852" alt="스크린샷 2025-07-21 140153" src="https://github.com/user-attachments/assets/70aafe6f-14e1-43aa-9270-e37c3eafe2c6" />
+
+
 
 # 7. 한 줄 회고
 민석 : 크롤링과 데이터 베이스를 이용해서 streamlit을 이제 검색없이 사용 할 수 있을거 같아요.
